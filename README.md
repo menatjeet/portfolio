@@ -1,12 +1,53 @@
-# React + Vite
+# 🚀 My Developer Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Hey there! 👋  
+Welcome to my personal **Developer Portfolio** – a showcase of who I am, what I do, and the projects I've worked on. This project is built using **React.js** and styled with **Tailwind CSS**.
 
-Currently, two official plugins are available:
+## 🌐 Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🔗 [View Live Portfolio](https://your-live-site-link.com)  
+*(Replace this link with your actual deployed site)*
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 📸 Preview
+
+![Portfolio Preview](./screenshot.png)  
+*(Add a screenshot of your portfolio here, or remove this section if not needed)*
+
+---
+
+## 🛠️ Tech Stack
+
+- ⚛️ **React.js**
+- 💨 **Tailwind CSS**
+- 🎨 Responsive Design
+- 🔀 React Hooks (`useState`, `useEffect`, etc.)
+
+---
+
+## 📂 Features
+
+- 🧭 Sticky Navbar
+- 👤 Hero Section with Introduction
+- 📜 About Section
+- 💼 Projects / Experience Section
+- 📞 Contact Form
+- 📱 Fully Responsive across all devices
+
+---
+
+## 🚀 Getting Started
+
+```bash
+# Clone the repo
+git clone https://github.com/your-username/your-repo-name.git
+
+# Navigate to the project folder
+cd your-repo-name
+
+# Install dependencies
+npm install
+
+# Start the development server
+npm start
